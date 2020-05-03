@@ -1,0 +1,9 @@
+Candidates:
+('BNDP3up8Ltn7oVXEt4YLqw'),('EwxhzR-VghhMsRObXLMitw'),('FvVSy2r7_zDEhZWqLgjXNQ'),('HsrEbWCg8K06pUhx469uSw'),('IMLrj2klosTFvPRLv56cng'),('NCFwm2-TDb-oBQ2medmYDg'),('O7UMzd3i-Zk8dMeyY9ZwoA'),('Qb4sJ4ssSX1clY2wEAOmsA'),('SVGApDPNdpFlEjwRQThCxA'),('TCoBE_BkDRrK0bWrh5VueQ'),('VIW-4GDAKGaXUdLtTVSFqQ'),('VMXl3Dm1Nwvgwo1PVYTXbg'),('Vs7gc9EE3k9wARuUcN9piA'),('WRQ-9LluyivReFiQZFUujw'),('Wxxvi3LZbHNIDwJ-ZimtnA'),('ZtJ6sTq7-5rL9ORUtQJHAQ'),('aYTiyhUbc6uL7jSAXGKhrA'),('d_L-rfS1vT3JMzgCUGtiow'),('gHoP4eJimaMltfUlp6EP4Q'),('i3mZIwNi1EiJ7-1A8amoyw'),('n8Zqqhff-2cxzWt_nwhU2Q'),('oxwGyA17NL6c5t1Etg5WgQ'),('pi1DHl64UzYXkVuSwvsUwg'),('qVO3l9Q0-KVQE7W9JL9ePw'),('qmymSqVwHYRqdwfcBatzpQ'),('tf8Ge1hPe-zGZIHI2Cgvyg'),('vx4YAA02Qz6khRD1fZ1MFA')
+
+('FvVSy2r7_zDEhZWqLgjXNQ', 'BNDP3up8Ltn7oVXEt4YLqw'),('FvVSy2r7_zDEhZWqLgjXNQ', 'IMLrj2klosTFvPRLv56cng'),('FvVSy2r7_zDEhZWqLgjXNQ', 'Vs7gc9EE3k9wARuUcN9piA'),('FvVSy2r7_zDEhZWqLgjXNQ', 'i3mZIwNi1EiJ7-1A8amoyw'),('FvVSy2r7_zDEhZWqLgjXNQ', 'qVO3l9Q0-KVQE7W9JL9ePw'),('HsrEbWCg8K06pUhx469uSw', 'O7UMzd3i-Zk8dMeyY9ZwoA'),('NCFwm2-TDb-oBQ2medmYDg', 'O7UMzd3i-Zk8dMeyY9ZwoA'),('TCoBE_BkDRrK0bWrh5VueQ', 'VMXl3Dm1Nwvgwo1PVYTXbg'),('TCoBE_BkDRrK0bWrh5VueQ', 'WRQ-9LluyivReFiQZFUujw'),('Vs7gc9EE3k9wARuUcN9piA', 'O7UMzd3i-Zk8dMeyY9ZwoA'),('Vs7gc9EE3k9wARuUcN9piA', 'vx4YAA02Qz6khRD1fZ1MFA'),('WRQ-9LluyivReFiQZFUujw', 'gHoP4eJimaMltfUlp6EP4Q'),('ZtJ6sTq7-5rL9ORUtQJHAQ', 'TCoBE_BkDRrK0bWrh5VueQ'),('aYTiyhUbc6uL7jSAXGKhrA', 'Vs7gc9EE3k9wARuUcN9piA'),('pi1DHl64UzYXkVuSwvsUwg', 'WRQ-9LluyivReFiQZFUujw'),('pi1DHl64UzYXkVuSwvsUwg', 'gHoP4eJimaMltfUlp6EP4Q')
+
+Frequent Itemsets:
+('FvVSy2r7_zDEhZWqLgjXNQ'),('IMLrj2klosTFvPRLv56cng'),('O7UMzd3i-Zk8dMeyY9ZwoA'),('SVGApDPNdpFlEjwRQThCxA'),('TCoBE_BkDRrK0bWrh5VueQ'),('Vs7gc9EE3k9wARuUcN9piA'),('WRQ-9LluyivReFiQZFUujw'),('ZtJ6sTq7-5rL9ORUtQJHAQ'),('aYTiyhUbc6uL7jSAXGKhrA'),('n8Zqqhff-2cxzWt_nwhU2Q'),('oxwGyA17NL6c5t1Etg5WgQ')
+
+('aYTiyhUbc6uL7jSAXGKhrA', 'Vs7gc9EE3k9wARuUcN9piA')

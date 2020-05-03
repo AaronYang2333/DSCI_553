@@ -1,0 +1,9 @@
+Candidates:
+('FvVSy2r7_zDEhZWqLgjXNQ'),('IMLrj2klosTFvPRLv56cng'),('O7UMzd3i-Zk8dMeyY9ZwoA'),('SVGApDPNdpFlEjwRQThCxA'),('TCoBE_BkDRrK0bWrh5VueQ'),('Vs7gc9EE3k9wARuUcN9piA'),('WRQ-9LluyivReFiQZFUujw'),('ZtJ6sTq7-5rL9ORUtQJHAQ'),('aYTiyhUbc6uL7jSAXGKhrA'),('n8Zqqhff-2cxzWt_nwhU2Q'),('oxwGyA17NL6c5t1Etg5WgQ')
+
+('Vs7gc9EE3k9wARuUcN9piA', 'aYTiyhUbc6uL7jSAXGKhrA')
+
+Frequent Itemsets:
+('FvVSy2r7_zDEhZWqLgjXNQ'),('IMLrj2klosTFvPRLv56cng'),('O7UMzd3i-Zk8dMeyY9ZwoA'),('SVGApDPNdpFlEjwRQThCxA'),('TCoBE_BkDRrK0bWrh5VueQ'),('Vs7gc9EE3k9wARuUcN9piA'),('WRQ-9LluyivReFiQZFUujw'),('ZtJ6sTq7-5rL9ORUtQJHAQ'),('aYTiyhUbc6uL7jSAXGKhrA'),('n8Zqqhff-2cxzWt_nwhU2Q'),('oxwGyA17NL6c5t1Etg5WgQ')
+
+('Vs7gc9EE3k9wARuUcN9piA', 'aYTiyhUbc6uL7jSAXGKhrA')
