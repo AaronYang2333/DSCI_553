@@ -147,13 +147,13 @@ def wrapper(data, type, keys):
 if __name__ == '__main__':
     start = time.time()
     # define input variables
-    # train_file_path = "../data/train_review2.json"
-    # export_model_file_path = "../out/task5.model"
-    # stop_words_file_path = "../data/stopwords"
+    train_file_path = "../data/train_review2.json"
+    export_model_file_path = "../out/task5.model"
+    stop_words_file_path = "../data/stopwords"
 
-    train_file_path = sys.argv[1]
-    export_model_file_path = sys.argv[2]
-    stop_words_file_path = sys.argv[3]
+    # train_file_path = sys.argv[1]
+    # export_model_file_path = sys.argv[2]
+    # stop_words_file_path = sys.argv[3]
 
     # generate stopwords set
     stop_words_set = set(word.strip() for word in open(stop_words_file_path))
@@ -270,6 +270,6 @@ if __name__ == '__main__':
     model_content.extend(wrapper(user_profile.collect(), USER_PROFILE,
                                  keys=[USER_INDEX, USER_PROFILE]))
 
-    # export2File(model_content, export_model_file_path)
+    export2File(model_content, export_model_file_path)
 
     print("Duration: %d s." % (time.time() - start))
