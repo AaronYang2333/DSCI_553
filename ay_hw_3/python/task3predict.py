@@ -151,9 +151,10 @@ if __name__ == '__main__':
         # tuple(uidx, [(bidx, score)])
         # => [(0, [(7819, 3.0), (10185, 3.0), (5437, 3.0) ...]), (), ()...]
         train_uid_bidx_score_rdd = train_input_lines.map(lambda kvv: (kvv[0], (kvv[1], kvv[2]))) \
-            .groupByKey().map(lambda uid_bids: (user_index_dict[uid_bids[0]],
-                                                [(bus_index_dict[bid_score[0]], bid_score[1]) for bid_score in
-                                                 list(set(uid_bids[1]))]))
+            .groupByKey() \
+            .map(lambda uid_bids: (user_index_dict[uid_bids[0]],
+                                   [(bus_index_dict[bid_score[0]], bid_score[1]) for bid_score in
+                                    list(set(uid_bids[1]))]))
 
         # tokenized uid and bidx from test file
         # tuple(uidx, bidx)
@@ -206,7 +207,7 @@ if __name__ == '__main__':
         # dict(uid_str: avg_score)
         # => {"MHiKdBFx4McRQONnuMbByw": 3.857142857142857, ...}
         user_avg_dict = sc.textFile(user_avg_file_path).map(lambda row: json.loads(row)) \
-            .map(lambda kv: dict(kv)).flatMap(lambda kv_items: kv_items.items()) \
+            .ma.p(lambda kv: dict(kv)).flatMap(lambda kv_items: kv_items.items()) \
             .collectAsMap()
 
         # tokenized uid and bidx from test file
