@@ -109,3 +109,7 @@
 /ay_hw_5/test/bubble_sort.py
 /ay_hw_5/test/merge_sort.py
 /ay_hw_5/test/selection_sort.py
+/project/.idea
+/project/out
+/project/python
+/project/resource/asnlib/publicdata
