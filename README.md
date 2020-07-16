@@ -1,4 +1,4 @@
-## 2020 Spring USC INF_553 (Foundations and Applications of Data Mining) Homeworks Respority
+## 2020 Spring USC DSCI_553 (Foundations and Applications of Data Mining) Homeworks Respority
 
 #### Description
 Data mining is a foundational piece of the data analytics skill set. At a high level, it allows the
